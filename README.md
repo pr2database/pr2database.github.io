@@ -3,8 +3,8 @@
 
 ## PR2 updates
 ### 4.13
-* [Thalassiosirales](https://pr2database.github.io/4.12/PR2-update-4.13.0-B---Thalassiosirales.html)
-* [Suessiales](https://pr2database.github.io/4.12/PR2-update-4.13.0-A-Suessiales.html)
+* [Thalassiosirales](https://pr2database.github.io/4.13/PR2-update-4.13.0-B---Thalassiosirales.html)
+* [Suessiales](https://pr2database.github.io/4.13/PR2-update-4.13.0-A-Suessiales.html)
 
 ### Older
 * [PR2 update 4.11 - Management](https://pr2database.github.io/4.11/PR2_update_4.11.0_Misc.html)
